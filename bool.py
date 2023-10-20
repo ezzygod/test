@@ -8,4 +8,3 @@ print(y)
 
 y = x
 print(y)
-ceva
